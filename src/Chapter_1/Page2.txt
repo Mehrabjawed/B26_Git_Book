@@ -1,5 +1,6 @@
 Hello Sydeo
 
-Hello World
+Hello World Hello America
 
-Java is fun
+Java is fun, but it is hard today
+Years ago we wanted to learn Java
